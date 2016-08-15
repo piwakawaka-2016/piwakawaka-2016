@@ -50,7 +50,7 @@ Number | Name | Estimated time (hrs)*
 7. | Assignments (see below) | 5
 
 ## Assignments and resources
-Each week you have a number of assignments to complete. Assignments are located in your cohort's waffle board and assigned to you. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/piwakawaka-2016/piwakawaka-2016`?assigned=`**yourGithubUserName**
+Each week you have a number of assignments to complete. Assignments are located in your cohort's waffle board and assigned to you. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/piwakawaka-2016/piwakawaka-2016`?assigned=`**yourGithubUserName**`
 <br>
 You will need to replace 'GithubUserName', for example:<br> `https://waffle.io/piwakawaka-2016/piwakawaka-2016?assigned=anahera`
 
