@@ -9,9 +9,9 @@
 **Welcome to Dev Academy!** We are a house of ambitious ideas and we invite you to join with us and fill this house with knowledge. Every one of you brings a unique perspective, insights and experiences that we value. We warmly welcome you into our community of learning, collaboration and knowledge. Welcome to Enspiral Dev Academy!
 
 ## Phase 0 overview
-You belong to a cohort, and together you will work through 9 weeks of _sprints_ - a bundle of core-habits, core-concepts and weekly assignments. Each week you will have the option to dive into the concepts or go straight to the assignments. 
+You belong to a cohort, and together you will work through 9 weeks of _sprints_ - a bundle of core-habits, core-concepts and weekly assignments. Each week you will have the option to dive into the concepts or go straight to the assignments.
 
-Your journey is your own. There are no grades and there is no competition. Give yourself ample opportunity to better your knowledge. Be honest and real with yourself. Be honest and real with us. Dedicate yourself. Commit time. Say no to the immediacy of life and requests that can pull you away from your knowledge building experience and give yourself the best launchpad for your new career and skills. 
+Your journey is your own. There are no grades and there is no competition. Give yourself ample opportunity to better your knowledge. Be honest and real with yourself. Be honest and real with us. Dedicate yourself. Commit time. Say no to the immediacy of life and requests that can pull you away from your knowledge building experience and give yourself the best launchpad for your new career and skills.
 
 When times get tough, keep going. Reach out to us and your cohort and you will be supported. There is no shame in not knowing something and there is so much to gain from sharing your experience.
 
@@ -50,9 +50,9 @@ Number | Name | Estimated time (hrs)*
 7. | Assignments (see below) | 5
 
 ## Assignments and resources
-Each week you have a number of assignments to complete. Assignments are located in your cohort's waffle board and assigned to you. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/dev-academy-programme/`**cohortBird-year**`?assigned=`**yourGithubUserName**
+Each week you have a number of assignments to complete. Assignments are located in your cohort's waffle board and assigned to you. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/piwakawaka-2016/piwakawaka-2016`?assigned=`**yourGithubUserName**
 <br>
-You will need to replace 'cohortBird-yearGraduating' and 'GithubUserName', for example:<br> `https://waffle.io/dev-academy-programme/kakapo-2016?assigned=anahera`
+You will need to replace 'GithubUserName', for example:<br> `https://waffle.io/piwakawaka-2016/piwakawaka-2016?assigned=anahera`
 
 We provide you with curated material that our teachers have written, and/or amazing resources we've found on the web. _Don't repeat yourself_ (DRY) is a principle of software development, aimed at reducing repetition of information. We apply software principles to our education model in many regards, including _agile_ course-ware and DRY resources.
 
