@@ -1,0 +1,7 @@
+Reflection is crucial to move things from short term memory to long term memory. It allows us to notice and correct our own mistakes, but it's incredibly easy to be dishonest with yourself. Being honest is important, don't fool yourself. You won't increase your learning if you deny not knowing it. Reflection allows us to learn more about ourselves and our learning style, so that we can increase our learning potential. There are many ways of reflecting and some will work better than others, but each offers it's own advantage.
+
+Self-reflection is crucial for learning as we actively think about, and question, ourselves and our work. Honesty is the hardest thing about self reflection, as it's easy to convince yourself that you know something you really don't. Group reflection helps you to pick up on things that you may have otherwise missed, also enables you to try others' learning methods.
+
+This week I was able to keep focused on work and get everything done. It helps that everything I was learning was new and interesting, as well as group communication that was both encouraging and helpful.
+
+I will need to work on communicating more with my group. There were a few times where I got stuck and spent far too much time trying to figure something out instead of just asking and getting a prompt response. Also it would be a good idea to work more on my routine, although working this week was fine, setting hours will help to manage time better in the future.  
