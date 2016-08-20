@@ -4,4 +4,4 @@
 
 2. This week I think I handled my time managment and focus pretty well. I got all the tasks done in a reasonable time frame, and I had time to take notes and do all that extra stuff you do when you aren't feeling stressed. I also pushed myself, I tried to figure out problems by myself and go the extra mile to learn more css functionality.
 
-3. This week I could have spent more time working on necessary but kinda boring skills like atom shortcuts. I also want to work on getting up earlier cos before 10am is always a struggle which is pretty ridiculous.
+3. This week I could have spent more time working on necessary but kinda boring skills like atom shortcuts. I also want to work on getting up earlier cos before 10am is always a struggle.

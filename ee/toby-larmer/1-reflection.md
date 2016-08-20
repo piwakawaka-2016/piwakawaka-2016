@@ -1,0 +1,5 @@
+Why Reflection is important: Reflection is important because it helps you learn by analysing what you have achieved compared with what you wanted to achieve. It makes you think about yourself and your peers and how to get the best out of each other.
+
+What I did well this week: I did well at chipping away toward the end of this week - picking moments of spare time to study concepts and practice typing, command lines and github commands. I took lots of notes on A4 paper rather than in a notebook. I find the A4 paper easier to organise into subjects and easier to add extra notes to a particular subject. Now I'm going to read back through them.
+
+What I could have done to improve: I could have opened fewer tabs in my web browser and kept just one topic/subject open - rather than opening a large number of tabs and telling myself this is what I need to get through. This would have allowed me to return during those moments of spare time and pick up immediately from where I left off on a particular subject. 
