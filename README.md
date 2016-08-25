@@ -25,6 +25,6 @@ Go well, ngā mihi...
 <figure>
   <img src="http://www.piwakawakaecoretreat.co.nz/wp-content/uploads/2014/12/piwakawaka5.jpg" alt="piwakawaka-picture"><br>
   <figcaption>
-    <p>What an exciting photo of a bird, www.piwakawakaecoretreat.co.nz.</p>
+    <p>What an excllpanet photo of a bird, www.piwakawakaecoretreat.co.nz.</p>
   </figcaption>
 </figure>
