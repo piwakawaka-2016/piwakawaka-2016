@@ -13,7 +13,7 @@ Your learning journey unfolds:
 <!--- [Sprint 5 overview](/sprints/5-overview) :sunflower:-->
 <!--- [Sprint 4 overview](/sprints/4-overview) :zap:-->
 <!--- [Sprint 3 overview](/sprints/3-overview) :sunny: -->
-<!--- [Sprint 2 overview](/sprints/2-overview) :tada: -->
+- [Sprint 2 overview](/sprints/2-overview) :tada:
 - [Sprint 1 overview](/sprints/1-overview) :seedling:
 
 - [Our expectations of you](https://github.com/dev-academy-programme/orientation/tree/master/1-expectations)
@@ -25,6 +25,6 @@ Go well, ngā mihi...
 <figure>
   <img src="http://www.piwakawakaecoretreat.co.nz/wp-content/uploads/2014/12/piwakawaka5.jpg" alt="piwakawaka-picture"><br>
   <figcaption>
-    <p>What an exciting photo of a bird, www.piwakawakaecoretreat.co.nz.</p>
+    <p>What an excllpanet photo of a bird, www.piwakawakaecoretreat.co.nz.</p>
   </figcaption>
 </figure>
