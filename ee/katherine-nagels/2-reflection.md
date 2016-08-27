@@ -1,8 +1,8 @@
-# Reflection week 01
+# Reflection week 02
 
 ## What did I do well this week?
 I think I've done well on working steadily - doing a bit each day, which helps keep things in my head. I've got the hang of timeboxing/timing on Toggl pretty well now, too.
-I've tinkered with things that interest me without going **too** deep. I also handwrote a lot of notes, which is something I've always found very helpful for learning.
+I've tinkered with things that interest me without going *too* deep. I also handwrote a lot of notes, which is something I've always found very helpful for learning.
 Largely, I'm pushing past the discomfort of learning something new and unfamiliar, and chipping away at things even though I sometimes feel intimidated.
 
 ## What could I have done to improve?
