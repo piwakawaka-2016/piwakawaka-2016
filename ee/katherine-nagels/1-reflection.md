@@ -1,4 +1,4 @@
-### Reflection week 01
+# Reflection week 01
 
 ## Why is reflection important?
 Many of the links and resources on reflection given by EDA mention a quote by John Dewey: “We don’t learn from experience. We learn from reflecting on experience.” In other words, it's reflection that allows us to solidify the learning process. I see it as the difference between information and knowledge: one can learn a whole lot of data, but it's through reflection that it is distilled into knowledge.
