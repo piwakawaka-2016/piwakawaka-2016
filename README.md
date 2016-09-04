@@ -11,7 +11,7 @@ Your learning journey unfolds:
 <!--- [Sprint 7 overview](/sprints/7-overview) :sunflower:-->
 <!--- [Sprint 6 overview](/sprints/6-overview) :honeybee:-->
 <!--- [Sprint 5 overview](/sprints/5-overview) :sunflower:-->
-<!--- [Sprint 4 overview](/sprints/4-overview) :zap:-->
+- [Sprint 4 overview](/sprints/4-overview) :zap:
 - [Sprint 3 overview](/sprints/3-overview) :sunny:
 - [Sprint 2 overview](/sprints/2-overview) :tada:
 - [Sprint 1 overview](/sprints/1-overview) :seedling:
