@@ -1,0 +1,3 @@
+This week I think I did a good job of challenging myself, and remembering to play and try new things. I feel like I learnted heaps about css this week, and for the first time I felt like I knew how to achieve what I wanted, rather than just trying everything until something kind of worked. This gives me more room to be creative which I loved.
+
+To improve next week is my time mangement skills. I completed all the work, but I tended to work in bursts, or change things very slowly for hours while being completey unfocused. This meant that using the toggle timer and time boxing was hard, cos I worked on my site for 2 or 3 hours, but only counted it as one, because I was so unfocused and got very little done. Next week I will try to keep my workflow steadier. 
