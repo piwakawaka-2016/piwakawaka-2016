@@ -1,0 +1,1 @@
+This week I have managed my time really well. I completed the assessments on time and I enjoyed them a lot! At the moment my main priority is studying but I am still working full time so that does stress me out a bit. Haedspace.com is helping me a lot with managing my stress levels and my focus.  I have enjoyed this week!
