@@ -4,4 +4,4 @@ I really enjoy using JavaScript so this week I found that I didn't procrastinate
 
 What could I have done to improve?
 
-I probably should stop listening to music that I know every last work to while I'm working because I end up being more focused on singing/dancing than actually doing work and also 'taking a quick break' shouldn't be 3 hours of playing guitar or watching movies. Either way it was fun though. Really awesome week.
+I probably should stop listening to music that I know every last word to while I'm working because I end up being more focused on singing/dancing than actually doing work and also 'taking a quick break' shouldn't be 3 hours of playing guitar or watching movies. Either way it was fun though. Really awesome week.
