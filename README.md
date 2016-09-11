@@ -10,7 +10,7 @@ Your learning journey unfolds:
 <!--- [Sprint 8 overview](/sprints/8-overview) :cherry_blossom:-->
 <!--- [Sprint 7 overview](/sprints/7-overview) :sunflower:-->
 <!--- [Sprint 6 overview](/sprints/6-overview) :honeybee:-->
-<!--- [Sprint 5 overview](/sprints/5-overview) :sunflower:-->
+- [Sprint 5 overview](/sprints/5-overview) :sunflower:
 - [Sprint 4 overview](/sprints/4-overview) :zap:
 - [Sprint 3 overview](/sprints/3-overview) :sunny:
 - [Sprint 2 overview](/sprints/2-overview) :tada:
