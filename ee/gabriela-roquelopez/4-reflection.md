@@ -1,0 +1,7 @@
+===================
+REFLECTION 4
+===================
+
+This was a really cool week albeit completely exhausting, he he. As I am writing this I have clocked 34 hours and counting. I am really happy that I managed to finish what I had left from last week plus all the material from this week which was a lot. I also could cook some nice organic food on Monday and have enough for the rest of the week. I will try to do this every Sunday from now on. This week I went to EDA most days and that really helped me concentrate and study, there is a really cool vibe plus yummy tea and organic milk, he he. I also met Katherine and Kate from my cohort!! :). Technically I feel that I learned soooo much, I was able to understand many new things and I am really proud of myself in that sense.
+
+On the side of things that did not go so well I pretty much forgot all about the mindfulness bit and only started with the meditation today (Saturday). I will try and be better next week, my partner agreed to do it with me (yay!) so we can remind each other. I also took a looooong time to finish the Code Academy part of the course (22 hours instead of 10), way longer than it should and what takes others too. I think it is because I'm too thorough with the concepts and I expect to understand *absolutely everything* before I can move on to the next exercise. By the time I got to the Free academy part I was really confident with the things I learned before but too tired to study new things, he.
