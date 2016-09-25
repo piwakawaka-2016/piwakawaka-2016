@@ -1,0 +1,1 @@
+I think that I did ok this week. It wasn’t easy. I was sick for 3 days so I couldn’t do any study/assignment on these days. I found the minesweeper assignment a bit hard. Some of them weren’t easy at all. I think that I need to focus more and work more on my attention. I hope next week will be better.
