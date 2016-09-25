@@ -2,7 +2,7 @@
 
 ## What did I do well this week?
 
-I worked methodically. Reading the instructions takes you a long way, using the problem solving strategies took me the rest of the way.
+I worked methodically. Reading the instructions takes one a long way, using the problem solving strategies took me the rest of the way. I was focused and worked effectively.
 
 ## What could I have done to improve?
 
