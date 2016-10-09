@@ -1,0 +1,1 @@
+I feel I have done rather well this week and am pleased with my progress.  A lot has come together in my head and I got through this weeks assignements with minimal stress.  Not to say it was easy,  but I was able to find my way through blocks.  It was very satisfying to complete the quote generator having built it from scratch.
